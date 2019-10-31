@@ -1,6 +1,7 @@
 # BNU 口语考试资料汇总
 
-资料来自于热心同学的整理. 欢迎您贡献新的资料.
+资料来自于热心同学的整理. 如有错误, 欢迎提交贡献代码. 主页: [http://hlwu.me/BNU-oral-test](http://hlwu.me/BNU-oral-test).
+
 <!-- TOC -->
 
 - [BNU 口语考试资料汇总](#bnu-%e5%8f%a3%e8%af%ad%e8%80%83%e8%af%95%e8%b5%84%e6%96%99%e6%b1%87%e6%80%bb)
@@ -255,6 +256,7 @@ Tedious is generally a derogatory term(贬义词)，Used to describe a person sp
 
 1. not able to be maintained at the current rate or level.
 2. macroeconomic instability led to an unsustainable boom
+
 描述：
 
 As we all know, unsustainable development means that people is not pay attention to the  long-term development, but only cares about immediate development. However, this development model will inevitably lead to a series of serious consequences. Therefore, China and  even all over the world  are committed to the path of sustainable development and strive to achieve human beings live in harmony with nature and develop together.
